@@ -66,8 +66,7 @@
                 "name",
                 "websiteUrl",
                 "privacyUrl",
-                "termsOfUseUrl",
-                "defaultLanguageCode"
+                "termsOfUseUrl"
             ]
         },
         "name": {
@@ -474,6 +473,7 @@
         "name",
         "description",
         "icons",
-        "accentColor"
+        "accentColor",
+        "defaultLanguageCode"
     ]
 }
